@@ -10,26 +10,12 @@ package ec.edu.espoch.compas;
 public class Compas {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
+        System.out.println("Hello veronica");
         System.out.println("hola");
-        System.out.println("holas crack");
-        System.out.println("hola dilan y negga");
-              
-        for (int i = 0; i < 10; i++) {
-            
-        }
-        
-        System.out.println("holaaaaaaaaa");
-        System.out.println("hola nigagsas");
-    
-    
-    
-    
-    
-    
-            do {            
-            
-        } while (true);
-   
+        System.out.println("holas ");
+        System.out.println("hola");
+        System.out.println("ocomo estas veronica y dilan hola amigo como estas");
+        System.out.println("como estas amigooooooooooooooooooooooooo");
     }
 }
