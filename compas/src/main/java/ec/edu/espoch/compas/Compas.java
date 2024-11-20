@@ -12,7 +12,7 @@ public class Compas {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("hola");
-        System.out.println("holas crack"
-        );
+        System.out.println("holas crack");
+        System.out.println("hola dilan y negga");
     }
 }
