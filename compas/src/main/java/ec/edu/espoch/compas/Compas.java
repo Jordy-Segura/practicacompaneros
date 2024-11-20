@@ -14,12 +14,22 @@ public class Compas {
         System.out.println("hola");
         System.out.println("holas crack");
         System.out.println("hola dilan y negga");
-        
-        
+              
         for (int i = 0; i < 10; i++) {
             
         }
         
         System.out.println("holaaaaaaaaa");
+        System.out.println("hola nigagsas");
+    
+    
+    
+    
+    
+    
+            do {            
+            
+        } while (true);
+   
     }
 }
