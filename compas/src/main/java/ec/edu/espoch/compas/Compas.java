@@ -14,5 +14,50 @@ public class Compas {
         System.out.println("hola");
         System.out.println("holas crack");
         System.out.println("hola dilan y negga");
+        
+        System.out.println("hola nigagsas");
+    
+    
+    
+    
+    
+    
+            do {            
+            
+        } while (true);
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     }
 }
