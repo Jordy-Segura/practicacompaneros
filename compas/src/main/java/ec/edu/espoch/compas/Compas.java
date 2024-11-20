@@ -14,5 +14,10 @@ public class Compas {
         System.out.println("hola");
         System.out.println("holas crack");
         System.out.println("hola dilan y negga");
+        
+        
+        for (int i = 0; i < 10; i++) {
+            
+        }
     }
 }
