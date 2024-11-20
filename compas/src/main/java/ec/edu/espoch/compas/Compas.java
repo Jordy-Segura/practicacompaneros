@@ -17,5 +17,10 @@ public class Compas {
         System.out.println("hola");
         System.out.println("ocomo estas veronica y dilan hola amigo como estas");
         System.out.println("como estas amigooooooooooooooooooooooooo");
+        
+        
+        
+        
+        System.out.println("kiubo");
     }
 }
